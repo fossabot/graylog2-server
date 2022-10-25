@@ -3,6 +3,7 @@
 [![License](https://img.shields.io/badge/license-SSPL-green)](https://www.mongodb.com/licensing/server-side-public-license)
 [![Maven Central](https://img.shields.io/maven-central/v/org.graylog2/graylog2-server.svg)](http://mvnrepository.com/artifact/org.graylog2/graylog2-server)
 [![Build](https://github.com/Graylog2/graylog2-server/actions/workflows/build.yml/badge.svg)](https://github.com/Graylog2/graylog2-server/actions/workflows/build.yml)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjerenico%2Fgraylog2-server.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjerenico%2Fgraylog2-server?ref=badge_shield)
 
 Welcome! _Graylog_ is an open source log management platform.
 
@@ -29,3 +30,6 @@ Come chat with us in the [`#graylog` channel on freenode IRC](https://webchat.fr
 ## License
 
 _Graylog_ is released under version 1 of the [Server Side Public License (SSPL)](LICENSE).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjerenico%2Fgraylog2-server.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjerenico%2Fgraylog2-server?ref=badge_large)
